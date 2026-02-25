@@ -1,0 +1,9 @@
+# Streamlit Configuration
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[logging]
+level = 'info'
